@@ -22,13 +22,22 @@ We found the following to be of interest in our analysis:
   * Wednesday appears to be an unpopular day for rides (furthest from the weekend?) while Thursday and Friday show frequent rides.
 
 ## Pics:
-[Gender Breakdown]();
-[Customer Type]();
-[Checkout Time for Users]();
-[Checkout Times by Gender]();
-[Trips by Weekday per Hour]();
-[Trips by Gender (Weekday per Hour)]();
-[User Trips by Gender by Weekday]();
+[Gender Breakdown](https://github.com/tonyferri/Bikesharing/blob/main/resources/Gender%20Breakdown.png);
+
+[Customer Type](https://github.com/tonyferri/Bikesharing/blob/main/resources/Customer%20Type.png);
+
+[Checkout Time for Users](https://github.com/tonyferri/Bikesharing/blob/main/resources/Checkout%20Time%20for%20Users.png);
+
+[Checkout Times by Gender](https://github.com/tonyferri/Bikesharing/blob/main/resources/Checkout%20Times%20by%20Gender.png);
+
+[Trips by Weekday per Hour](https://github.com/tonyferri/Bikesharing/blob/main/resources/Trips%20by%20Weekday%20per%20Hour.png);
+
+[Trips by Gender (Weekday per Hour)](https://github.com/tonyferri/Bikesharing/blob/main/resources/Trips%20by%20Gender%20(Weekday%20per%20Hour).png);
+
+[User Trips by Gender by Weekday](https://github.com/tonyferri/Bikesharing/blob/main/resources/User%20Trips%20by%20Gender%20by%20Weekday.png);
 
 ## Summary: 
-The majority of the riders are male subscribers riding on weekday mornings, weekday late afternoon early evening and mid day weekeends.  With this in mind, it would be beneficial to determine ways to increase business in off hours / d
+The majority of the riders are male subscribers riding on weekday mornings, weekday late afternoon early evening and mid day weekeends.  With this in mind, it would be beneficial to determine ways to increase business in off hours.
+
+## Link to Dashboard:
+[link to dashboard](https://public.tableau.com/app/profile/tony.ferri5449/viz/Module14ChallengeCitibike_16398502818160/NYCCitibikeStory?publish=yes)
